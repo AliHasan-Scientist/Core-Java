@@ -1,4 +1,4 @@
-package String_02;
+package String;
 
 import java.lang.StringBuilder;
 

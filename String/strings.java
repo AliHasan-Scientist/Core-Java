@@ -1,8 +1,6 @@
-package String_02;
+package String;
 
-import java.util.Scanner;
 
-import javax.sound.sampled.SourceDataLine;
 
 public class strings {
 
@@ -14,7 +12,7 @@ public class strings {
         // System.out.println(name.concat(sayHello));
 
         String str1 = "aali";
-        String str2 = "ali";
+  //      String str2 = "ali";
 System.out.println(str1.charAt(0));
 
     }

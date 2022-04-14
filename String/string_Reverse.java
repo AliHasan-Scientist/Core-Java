@@ -1,4 +1,4 @@
-package String_02;
+package String;
 
 public class string_Reverse {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package OPP_04;
+package OPP;
 
 public class Pen {
     
