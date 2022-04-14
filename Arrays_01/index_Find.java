@@ -15,7 +15,7 @@ public class index_Find {
         }
         for (int i = 0; i < aray.length; i++) {
             if (key == aray[i]) {
-                System.out.println(i);
+                System.out.println("Key found at " + i);
             }
 
         }
